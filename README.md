@@ -13,8 +13,9 @@ Analisa Lee
 This assignment required me to edit a .js page of code to make a calculator calculate expenses.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://analisalee.github.io/lesson4_javascript1/
+
+https://github.com/analisalee/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
 1. I learned that an API is an application that helps you build software quickly by giving you methods and properties already written.
